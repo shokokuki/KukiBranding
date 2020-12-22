@@ -1,23 +1,23 @@
 # Actual banner within Shokokuki's creation year
-![](banner-cat-since.png?raw=true)
+<img src="banner-cat-since.png?raw=true" width="256">
 
 # Actual banner without Shokokuki's creation year
-![](banner-cat.png?raw=true)
+<img src="banner-cat.png?raw=true" width="256">
 
 # Old banner with japanese characters
-![](banner-japanese.png?raw=true)
+<img src="banner-japanese.png?raw=true" width="256">
 
 # Actual icon with Shokokuki's colors gradient
-![](round-color.png?raw=true)
+<img src="round-color.png?raw=true" width="256">
 
 # Actual icon in black
-![](round-unicolor-black.png?raw=true)
+<img src="round-unicolor-black.png?raw=true" width="256">
 
 # Transparent actual icon with White characters
-![](round-unicolor-inverted-white.png?raw=true)
+<img src="round-unicolor-inverted-white.png?raw=true" width="256">
 
 # Actual icon in White
-![](round-unicolor-white.png?raw=true)
+<img src="round-unicolor-white.png?raw=true" width="256">
 
 # Shokokuki's creation year from the actual banner
-![](year.png?raw=true)
+<img src="year.png?raw=true" width="256">
