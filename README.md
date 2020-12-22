@@ -1,23 +1,23 @@
-# Banner Cat Since
+# Actual banner within Shokokuki's creation year
 ![](banner-cat-since.png?raw=true)
 
-# Banner Cat
+# Actual banner without Shokokuki's creation year
 ![](banner-cat.png?raw=true)
 
-# Banner Japanese
+# Old banner with japanese characters
 ![](banner-japanese.png?raw=true)
 
-# Round Color
+# Actual icon with Shokokuki's colors gradient
 ![](round-color.png?raw=true)
 
-# Round Unicolor Black
+# Actual icon in black
 ![](round-unicolor-black.png?raw=true)
 
-# Round Unicolor Inverted White
+# Transparent actual icon with White characters
 ![](round-unicolor-inverted-white.png?raw=true)
 
-# Round Unicolor White
+# Actual icon in White
 ![](round-unicolor-white.png?raw=true)
 
-# Year
+# Shokokuki's creation year from the actual banner
 ![](year.png?raw=true)
